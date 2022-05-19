@@ -3,9 +3,10 @@
 [![PyPI](https://img.shields.io/pypi/v/mackerel.api)](https://pypi.org/project/mackerel.api/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![codecov](https://codecov.io/gh/10mohi6/mackerel-api-client-python/branch/main/graph/badge.svg?token=dCNHE9TzxS)](https://codecov.io/gh/10mohi6/mackerel-api-client-python)
-[![Build Status](https://travis-ci.com/10mohi6/mackerel-api-client-python.svg?branch=main)](https://travis-ci.com/10mohi6/mackerel-api-client-python)
+[![Build Status](https://app.travis-ci.com/10mohi6/mackerel-api-client-python.svg?branch=main)](https://app.travis-ci.com/10mohi6/mackerel-api-client-python)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mackerel.api)](https://pypi.org/project/mackerel.api/)
 [![Downloads](https://pepy.tech/badge/mackerel.api)](https://pepy.tech/project/mackerel.api)
+
 mackerel.api is a python library for mackerel api on Python 3.7 and above.
 
 ## Install
