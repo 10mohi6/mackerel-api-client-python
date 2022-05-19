@@ -7,7 +7,7 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mackerel-api-client)](https://pypi.org/project/mackerel-api-client/)
 [![Downloads](https://pepy.tech/badge/mackerel-api-client)](https://pepy.tech/project/mackerel-api-client)
 
-mackerel.api is a python library for mackerel api on Python 3.6 and above.
+mackerel.api is a python library for mackerel api on Python 3.7 and above.
 
 ## Install
 
