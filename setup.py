@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="mackerel.api",
-    version="1.0.0",
+    version="1.0.1",
     description="mackerel.api is a python client library for mackerel api \
         on Python 3.7 and above.",
     long_description=open("README.md").read(),
