@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="mackerel.api",
-    version="1.0.1",
+    version="1.0.2",
     description="mackerel.api is a python client library for mackerel api \
         on Python 3.7 and above.",
     long_description=open("README.md").read(),
@@ -10,7 +10,7 @@ setup(
     license="MIT",
     author="10mohi6",
     author_email="10.mohi.6.y@gmail.com",
-    url="https://github.com/10mohi6/mackerel-api-python",
+    url="https://github.com/10mohi6/mackerel-api-client-python",
     keywords="mackerel rest api rest-api python client",
     packages=find_packages(),
     install_requires=["requests"],
